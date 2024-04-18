@@ -1,4 +1,4 @@
-# PostgreSQL Docker Compose Setup
+# PostgreSQL Docker Compose Setup [![JavaScript](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
 
 This repository contains a Docker Compose configuration for setting up a PostgreSQL database server using Docker.
 
